@@ -1,4 +1,4 @@
-# Undergrad Final Year Project - Efficient Word2Vec Vectors For Sentiment Analysis To Improve Commercial Movie Success
+# B.Tech Final Year Project - Efficient Word2Vec Vectors For Sentiment Analysis To Improve Commercial Movie Success
 
 
 Movie industry has turned huge today, with a lot of money put at stake by the producer. Along with this, marketing strategies can be planned and improved dynamically according to the sentiments of the users available through their reviews on pre-release events like trailer, music launch, and other promotions. Better marketing can guarantee the producer at least a good opening whatever the story might be. This is where sentiment analysis becomes useful. Analyzing the sentiments of the reviews have been worked upon since long, and the algorithms for sentiment polarity classification used include tf-idf, word2vec and doc2vec.
